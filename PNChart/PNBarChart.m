@@ -206,7 +206,7 @@
         bar.grade = grade;
         
         // Add gradient
-        bar.barColorGradientStart = _barColorGradientStart;
+        //bar.barColorGradientStart = _barColorGradientStart;
         
 
         //For Click Index
